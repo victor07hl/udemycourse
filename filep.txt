@@ -1,2 +1,5 @@
 this file was created for probe the staging area
 Second line modified
+When add a file to staging area and then modified it once again,
+the command git commit only added the changes made before 
+adding the file to staging area
