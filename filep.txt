@@ -1,1 +1,2 @@
 this file was created for probe the staging area
+Second line modified
